@@ -7,3 +7,4 @@
 
 - orangepi5
 - orangepi5plus
+- orangepizero2
