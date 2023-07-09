@@ -8,3 +8,5 @@
 - orangepi5
 - orangepi5plus
 - orangepizero2
+
+![Kali桌面壁纸](https://github.com/leeboby/kali-images/blob/main/pictures/1.png)
