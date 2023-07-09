@@ -13,7 +13,7 @@
 
 ```
 由于kali xfce桌面版的镜像压缩后的大小超过了2GB，而github无法上传超过2GB大小的文件，所以将xfce镜像分成了两部分:part1和part2
-下载完对应开发板xfce镜像的part1和part2后可以使用cat命令将它们合并成最终的完整镜像压缩文件，如果opi5的合并命令如下所示：
+下载完对应开发板xfce镜像的part1和part2后可以使用cat命令将它们合并成最终的完整镜像压缩文件，如opi5的合并命令如下所示：
 
 cat kali-linux-2023.2-opi5-xfce-arm64.img.xza* > kali-linux-2023.2-opi5-xfce-arm64.img.xz
 ```
