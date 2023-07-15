@@ -19,7 +19,7 @@
 
 cat kali-linux-2023.2-opi5-xfce-arm64.img.xza* > kali-linux-2023.2-opi5-xfce-arm64.img.xz
 ```
-## zero3 1.5gb和4g内存版本的开发使用说明
+## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
 
 - 1.5gb内存的开发板需要更新下u-boot才能正常使用
 - 4gb内存的开发板需要更新下u-boot和内核的dtb文件才能正常使用
