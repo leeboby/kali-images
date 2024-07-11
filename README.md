@@ -19,13 +19,6 @@
 
 cat kali-linux-2023.2-opi5-xfce-arm64.img.xza* > kali-linux-2023.2-opi5-xfce-arm64.img.xz
 ```
-## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
-
-- 1.5gb内存的开发板需要更新下u-boot才能正常使用
-- 4gb内存的开发板需要更新下u-boot和内核的dtb文件才能正常使用
-
-更新方法请参考：[更新opizero3 u-boot和dtb的方法](https://github.com/leeboby/opizero3-uboot-dtb) 
-
 ## 登录账号和密码
 登录账号和密码都是：kali
 
