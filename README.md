@@ -23,4 +23,4 @@ cat kali-linux-2023.2-opi5-xfce-arm64.img.xza* > kali-linux-2023.2-opi5-xfce-arm
 登录账号和密码都是：kali
 
 ---
-![Kali桌面壁纸](https://github.com/leeboby/kali-images/blob/main/pictures/1.png)
+![Kali桌面壁纸](https://github.com/leeboby/kali-images/blob/main/pictures/desktop.png)
