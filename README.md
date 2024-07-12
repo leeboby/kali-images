@@ -10,9 +10,9 @@
 | opi5plus | minimal|[下载链接](https://github.com/leeboby/kali-images/releases/download/20230702/kali-linux-2023.2-opi5plus-minimal-arm64.img.xz) |
 | opizero2 |xfce |[part1](https://github.com/leeboby/kali-images/releases/download/orangepizero2/kali-linux-2023.2-opizero2-xfce-arm64.img.xzaa) [part2](https://github.com/leeboby/kali-images/releases/download/orangepizero2/kali-linux-2023.2-opizero2-xfce-arm64.img.xzab) |
 | opizero2 |minimal |[下载链接](https://github.com/leeboby/kali-images/releases/download/orangepizero2/kali-linux-2023.2-opizero2-minimal-arm64.img.xz) |
-| opizero3 |xfce |[part1]() [part2]() |
+| opizero3 |xfce |[part1](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero3-xfce-arm64.img.xzaa) [part2](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero3-xfce-arm64.img.xzab) |
 | opizero3 |minimal |[下载链接](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero3-minimal-arm64.img.xz) |
-| opizero2w |xfce |[part1]() [part2]() |
+| opizero2w |xfce |[part1](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero2w-xfce-arm64.img.xzaa) [part2](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero2w-xfce-arm64.img.xzab) |
 | opizero2w |minimal |[下载链接](https://github.com/leeboby/kali-images/releases/download/20240711/kali-linux-2024.2-opizero2w-minimal-arm64.img.xz) |
 ```
 由于kali xfce桌面版的镜像压缩后的大小超过了2GB，而github无法上传超过2GB大小的文件，所以将xfce镜像分成了两部分:part1和part2
