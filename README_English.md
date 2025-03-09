@@ -1,7 +1,3 @@
-Here’s the translated content:
-
----
-
 # This repository is used to store Kali Linux images for Orange Pi development boards.
 
 ## Download Kali Images
